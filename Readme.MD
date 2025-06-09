@@ -10,3 +10,9 @@ pip install -r requirements.txt
 python main.py
 
 ```
+
+### First time Run
+`python main.py`
+
+### Subsequently just for search
+`python search.py`
